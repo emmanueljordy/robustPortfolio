@@ -16,6 +16,13 @@ This paper introduces the minCluster portfolio, which is a portfolio optimizatio
 - pandas
 - scipy 
 - dcor 
+- fcluster 
+- cvxopt
+- sklearn
+- cython 
+- seaborn 
+- matplotlib 
+- Ipothyon
 
 ## How to proceed: 
 
