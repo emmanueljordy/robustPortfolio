@@ -22,7 +22,7 @@ This paper introduces the minCluster portfolio, which is a portfolio optimizatio
 - cython 
 - seaborn 
 - matplotlib 
-- Ipothyon
+- Ipythyon
 
 ## How to proceed: 
 
