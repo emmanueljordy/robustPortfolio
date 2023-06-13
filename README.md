@@ -31,4 +31,4 @@ Each folder in src contains the implementation of a submodule necessary to run t
 
 ## References
 
-* Menvouta, E. J., Serneels, S., & Verdonck, T. (2023). Portfolio optimization using cellwise robust association measures and clustering methods with application to highly volatile markets. The Journal of Finance and Data Science, 9, 100097.
+* Menvouta, E. J., Serneels, S., & Verdonck, T. (2023). Portfolio optimization using cellwise robust association measures and clustering methods with application to highly volatile markets. The Journal of Finance and Data Science, Volume 55, Part B, July 2023, 103969.
